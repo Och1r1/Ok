@@ -8,7 +8,7 @@ export class ListService {
   private pets: Pet[] = [
     {
       id: 1,
-      name: 'Oscar',
+      name: 'Oscdfasfsdfsar',
       image:
         'https://img.freepik.com/free-photo/red-white-cat-i-white-studio_155003-13189.jpg?w=2000',
       age: 1,
